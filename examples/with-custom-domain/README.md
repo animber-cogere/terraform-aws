@@ -1,7 +1,6 @@
 # Terraform Next.js custom domain example
 
 This example shows how to use a custom domain with the [Next.js Terraform module for AWS](https://registry.terraform.io/modules/animber-coder/next-js/aws).
-The code is based on the [with existing CloudFront distribution example](https://github.com/animber-coder/terraform-aws-next-js/tree/main/examples/with-existing-cloudfront).
 
 ## Features
 
