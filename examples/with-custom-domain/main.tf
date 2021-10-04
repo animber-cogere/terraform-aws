@@ -102,7 +102,7 @@ module "cloudfront_cert" {
 ##########################
 
 module "tf_next" {
-  source = "dealmore/next-js/aws"
+  source = "animber-coder/next-js/aws"
 
   cloudfront_aliases             = local.aliases
   cloudfront_acm_certificate_arn = module.cloudfront_cert.acm_certificate_arn
