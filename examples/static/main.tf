@@ -23,7 +23,7 @@ provider "aws" {
 module "tf_next" {
   source = "animber-coder/next-js/aws"
 
-  deployment_name = "terraform-next-js-example-static"
+  deployment_name = "tf-next-example-static"
 
   providers = {
     aws.global_region = aws.global_region
