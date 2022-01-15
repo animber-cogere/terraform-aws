@@ -2,6 +2,8 @@
 
 ## [Unreleased]
 
+## [0.11.1] - 2022-01-15
+
 ### Fixed
 
 - Fix for cloudfront invalidation dynamic routing paths ([#258](https://github.com/animber-coder/terraform-aws-next-js/pull/258))
